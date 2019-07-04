@@ -3,13 +3,13 @@
   "short_name": "nue-2014-curah-hujan",
   "icons": [
     {
-      "src": "./img/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "src": "./img/bmkg-192.png",
+      "sizes": "192x237",
       "type": "image/png"
     },
     {
-      "src": "./img/icons/android-chrome-512x512.png",
-      "sizes": "512x512",
+      "src": "./img/bmkg-512.png",
+      "sizes": "512x634",
       "type": "image/png"
     }
   ],

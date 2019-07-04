@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d6eae15a7eaa04b4c9c3c445c4e4e628.js"
+  "/precache-manifest.fd3d6a9b4a7d5a50ff948f5024efc0e1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nue-2014-curah-hujan"});
